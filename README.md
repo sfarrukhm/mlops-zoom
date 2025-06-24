@@ -1,1 +1,1 @@
-# mlops-zoom
+# MLops practice and projects
